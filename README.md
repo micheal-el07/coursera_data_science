@@ -1,3 +1,3 @@
-# coursera_data_science
+# Coursera Data Science
 
 Repository for uploading coursera coursework
